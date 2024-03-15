@@ -1,14 +1,9 @@
 
-
-
-
-
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <title>Validacion</title>
+
      
     <link rel="icon" type="image/x-icon" href="https://prepaenlinea.sep.gob.mx/wp-content/themes/PL-SEP-2024/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
